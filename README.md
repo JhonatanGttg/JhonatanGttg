@@ -8,7 +8,7 @@
 
 ***************
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/JhonatanGttg">
   <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=886ce4&title_color=886ce4&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=JhonatanGttg&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
    
