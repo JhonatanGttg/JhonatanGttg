@@ -6,7 +6,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatangttg_/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gttg)
 
-![Jhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanGttg&show_icons=true&theme=dracula&count_private=true&locale=pt-br)
+
+
+<div align="center">
+  <a href="https://github.com/fravondev">
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=886ce4&title_color=886ce4&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=fravondev&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
+   
+   
+ <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fravondev&layout=compact&text_color=ffffff&title_color=886ce4&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
+</div>
+
+***************
 
 ## Tecnologias que eu uso no meu dia
 
