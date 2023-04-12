@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jhonatan Inacio 🖐️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=886ce4&height=160&section=header&text=Jhonatan%20Inacio🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1200&duration=5001&pause=1100&lines=Olá+Me+chamo+Jhonatan+Inacio+da+Silva;Estudo+Ciência+da+computação+na+UNIFAVIP+WYDEN;Fique+a+vontade!+:%29)](https://git.io/typing-svg)
 
