@@ -9,7 +9,7 @@
 - Desenvolvedor Mobile>
 - Adoro jogos, programação e forró <br>
 - Amo tecnologia <br>
-- Atualmente estudando Flutter, Kotlin & Swift
+- Atualmente estudando Python, Pandas & Plotly
 <br>
   
   
